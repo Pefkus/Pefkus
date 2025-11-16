@@ -48,12 +48,6 @@ Obecnie skupiam się na:
 
 <br>
 
-## 📫 Jak się ze mną skontaktować
 
---Szukasz kogoś do swojego zespołu lub chcesz porozmawiać o ciekawym projekcie? Chętnie odpowiem!
-
---* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
---* **Portfolio (itch.io / Strona WWW):** [Link do Twojego portfolio]
---* **Email:** [Twój adres e-mail (opcjonalnie, LinkedIn może wystarczyć)]
 
 ---
